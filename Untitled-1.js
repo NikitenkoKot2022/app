@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Apple juice");
         }
         { else }
-        System.out.println("&&&&");
+        System.out.println("&&");
         // powder - 400 g, sugar - 10 g, milk - 1 l, oil - 30 ml
         if (powderAmount >= 400 && sugarAmount >= 10 && milkAmount >= 1000 && oilAmount >= 30) {
             System.out.println("Pancakes");

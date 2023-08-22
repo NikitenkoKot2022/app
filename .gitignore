@@ -1,0 +1,2 @@
+logs/*.log
+!logs/*test.log
